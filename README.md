@@ -2,6 +2,7 @@
 - 👀 I’m interested in building quick tools for automation
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on quick wins & hack
+- 🏄‍♂️ 99% Vibe Coding 
 
 <!---
 buildscalesell/buildscalesell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
